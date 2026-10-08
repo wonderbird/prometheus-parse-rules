@@ -234,3 +234,19 @@ and all existing tests pass.
 The upstream fix is [PR #16601](https://github.com/prometheus/prometheus/pull/16601),
 merged as commit `44e27a876`. Compare your solution with it only after you
 have finished the kata.
+
+## License
+
+This kata is licensed under the
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+(CC BY-SA 4.0). See [LICENSE](LICENSE) for the full legal code.
+
+When you share or adapt this kata, credit it as follows:
+"Kata: Fail Fast on Invalid Prometheus Rule Files" by Stefan Boos,
+<https://github.com/wonderbird/prometheus-parse-rules>, licensed under CC BY-SA
+4.0.
+
+The rule file excerpt in AC-1 is taken from the Prometheus project
+(<https://github.com/prometheus/prometheus>). It remains licensed under the
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0),
+copyright The Prometheus Authors.
